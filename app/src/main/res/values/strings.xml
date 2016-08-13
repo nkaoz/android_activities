@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="nombre">Neil Ruiz</string>
+    <string name="telefono">999999995</string>
+    <string name="email">nkaoz@hotmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
